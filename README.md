@@ -9,15 +9,19 @@ A day-wise log of my **Java learning journey**, where I practice core Java conce
 | Day | Topics Covered |
 |------|----------------|
 | **Day 01** | Introduction to Java — History of Java, Java Program Structure, Writing the first **Hello World** program, Understanding the `main()` method, Printing output using `System.out.println()`, Creating a simple program to **find the sum of two numbers** |
+| **Day 02** | Variables & Declarations, Scanner class for user input, building small real-world data-entry programs (Employee, Student, Library records) |
 
 ---
 
-## 💻 Programs Completed
+## 💻 Assignment Folder
 
-### 📌 Day 01
+### Assignment1.java — Student Academic Profile System
+Takes a student's name, roll number, and marks in 5 subjects, then computes:
 
-- 👋 Hello World Program
-- ➕ Sum of Two Numbers
+- Total marks (sum of 5 subjects)
+- Percentage (total ÷ 5)
+- Grade (A/B/C/D/E/F based on percentage bands: 90+, 80+, 70+, 60+, 50+, else F)
+- Pass/Fail status (pass if percentage ≥ 40)
 
 ---
 

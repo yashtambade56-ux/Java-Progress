@@ -14,19 +14,13 @@ public class FindLargestno {
         System.out.print("Enter third number: ");
         int c = sc.nextInt();
 
-        int largest;
-
         if (a > b && a > c) {
-            largest = a;
+            System.out.println("Largest number is: " + a);
+        } else if (b > a && b > c) {
+            System.out.println("Largest number is: " + b);
+        } else {
+            System.out.println("Largest number is: " + c);
         }
-        else if (b > a && b > c) {
-            largest = b;
-        }
-        else {
-            largest = c;
-        }
-
-        System.out.println("Largest = " + largest);
 
         sc.close();
     }

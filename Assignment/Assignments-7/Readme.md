@@ -1,6 +1,6 @@
 # Assignment 7: E-commerce Coupon Validator
 
-## 📌 Overview
+## Overview
 
 The **E-commerce Coupon Validator** is a Java application designed to demonstrate **custom exception handling** and **conditional business logic**. It validates discount coupons, checks minimum order requirements, calculates discounts, and displays the final payable amount.
 
@@ -8,7 +8,7 @@ If the coupon is invalid or the minimum order amount is not met, the program thr
 
 ---
 
-## 🎯 Concepts Covered
+## Concepts Covered
 
 - Custom Exception Handling
 - Creating Custom Exceptions using `Exception`
@@ -21,7 +21,7 @@ If the coupon is invalid or the minimum order amount is not met, the program thr
 
 ---
 
-## 🏷️ Coupon Rules & Discounts
+## Coupon Rules & Discounts
 
 | Coupon Code | Minimum Order Amount | Discount Rate | Description |
 | :--- | :---: | :---: | :--- |
@@ -32,7 +32,7 @@ If the coupon is invalid or the minimum order amount is not met, the program thr
 
 ---
 
-## 💻 Code Structure
+## Code Structure
 
 - **Package:** `Assignment7`
 - **Class:** `Ecommerce_coupon_validator`
@@ -52,7 +52,7 @@ Invalid output :-
 
 ---
 
-## 🖥️ Sample Console Interaction
+## Sample Console Interaction
 
 ### Valid Coupon
 

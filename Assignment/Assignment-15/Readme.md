@@ -1,4 +1,4 @@
-# Movie Watchlist Organizer
+# Movie Watchlist Organizer - mini project
 
 A simple Java Swing-based desktop application for managing a personal movie watchlist.
 
